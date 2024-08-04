@@ -1,0 +1,17 @@
+# requirements.txt
+
+# PyTorch and torchvision
+torch
+torchvision
+transformers
+Pillow
+numpy
+
+# Testing
+pytest
+
+# GUI (for potential future use with Streamlit)
+streamlit
+
+# Utilities
+tqdm
